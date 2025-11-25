@@ -63,4 +63,4 @@ The environment is now compliant with all critical points of the CIS AWS Foundat
 * **Final Status:** All 5 critical findings were immediately resolved.
 * **Artifacts:** We utilize Infrastructure-as-Code (IaC) solutions for robust fixes.
 
-[View IaC Example: S3 Encryption Module](iac-examples/s3_encryption_module.tf)
+[View Full IaC Repository: AWS S3 Secure Bucket Configuration](https://github.com/VladimirKozin/AWS-S3-Secure-Bucket-Configuration)
