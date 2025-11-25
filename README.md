@@ -1,1 +1,1 @@
-# Aws-security-hardening-case-study-
+# Aws-security-hardening-case-study
